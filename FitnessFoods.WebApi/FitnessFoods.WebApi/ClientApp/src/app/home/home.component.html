@@ -1,0 +1,8 @@
+<h1>Last Cron import :</h1>
+<p *ngIf="!model"><em>Loading...</em></p>
+<p><a href='https://localhost:5001/hangfire'>Executar manualmente  </a></p>
+<ul>
+  <li><strong>Data Ultima Importação : </strong> {{model.ImportDateTime}}</li>
+  <li><strong>Número de itens importados : </strong>{{model.NumberofObjects}}</li>
+  <li><strong>Tempo de Execução (Minutos) : </strong>{{model.ImportTime}}</li>
+</ul>
