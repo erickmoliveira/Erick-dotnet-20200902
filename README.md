@@ -35,7 +35,7 @@ Instalar os pacotes via Nuget e executar.
 
 ## API KEY
 
-- Api está no arquivo de configuração do projeto.
+- Apikey está no arquivo de configuração do projeto.
 
 
 
