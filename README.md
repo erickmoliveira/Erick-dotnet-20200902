@@ -33,5 +33,9 @@ Instalar os pacotes via Nuget e executar.
  HangFire: https://localhost:5001/hangfire
 
 
+## API KEY
+
+- Api está no arquivo de configuração do projeto.
+
 
 
