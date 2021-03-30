@@ -27,10 +27,10 @@ Instalar os pacotes via Nuget e executar.
 
  Exemplos URL :
 
- Swagger: https://localhost:5001/swagger/index.html
- Cron Detail: https://localhost:5001/
- Listagem de Produtos cadastrados : https://localhost:5001/fetch-data
- HangFire: https://localhost:5001/hangfire
+ ## Swagger: https://localhost:5001/swagger/index.html
+ ## Cron Detail: https://localhost:5001/
+ ## Listagem de Produtos cadastrados : https://localhost:5001/fetch-data
+ ## HangFire: https://localhost:5001/hangfire
 
 
 ## API KEY
