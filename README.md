@@ -22,7 +22,7 @@ Instalar os pacotes via Nuget e executar.
 
 - A importação dos produtos é feito todo dia as 05:00.
 - Caso tenha algum erro o sentry irá nos informar.
-- Podemos visualizar os eventos através do hangfire, assim como assinar determinado evendo.
+- Podemos visualizar os eventos através do hangfire, assim como assionar determinado evendo.
 - Swagger incluso com a listagem dos endpoints.
 
  Exemplos URL :
